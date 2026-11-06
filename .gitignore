@@ -1,0 +1,10 @@
+# твои личные данные об откликах не должны попасть на GitHub
+data.json
+data.json.tmp
+
+job-tracker-api
+*.exe
+*.out
+.idea/
+.vscode/
+.DS_Store
